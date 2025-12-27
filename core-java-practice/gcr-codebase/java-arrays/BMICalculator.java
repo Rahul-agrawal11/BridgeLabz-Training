@@ -3,7 +3,7 @@ import java.util.Scanner;
 class BMICalculator {
 	
 	public static String[][] toCalculateBMI(double[][] weightHeight) {
-		String[][] bmiWithStatus = new bmiWithStatus[10][2];
+		String[][] bmiWithStatus = new String[10][2];
 		
 		for (int i = 0; i < 10; i++) {
 			double height = weightHeight[i][1] * 0.01;
@@ -21,11 +21,12 @@ class BMICalculator {
 				bmiWithStatus[i][1] = "Category: Obese";
 			}
 		}
+		return bmiWithStatus;
 	}
 
 	public static String[][] takeWeightHeight(double[][] weightHeight) {
 		String[][] finalResult = new String[10][4];
-		String[][] bmiWithStatus = toCalculateBMI(double[][] weightHeight);
+		String[][] bmiWithStatus = toCalculateBMI(weightHeight);
 		
 		for (int i = 0; i < 10; i++) {
 			String weight = String.valueOf(weightHeight[i][0]);
@@ -35,7 +36,7 @@ class BMICalculator {
 			finalResult[i][2] = bmiWithStatus[i][0];
 			finalResult[i][3] = bmiWithStatus[i][1];
 		}
-		
+		return bmiWithStatus;
 	}
 
 	public static void main(String[] args) {
@@ -43,7 +44,7 @@ class BMICalculator {
 		double[][] weightHeight = new double[10][2];
 		
 		for (int i = 0; i < 10; i++) {
-			System.out.print("Enter weight for Person " + (i + 1) " : ");
+			System.out.print("Enter weight for Person " + (i + 1) + " : ");
 			double weight = input.nextDouble();
 			if (weight < 1) {
 				System.out.print("Enter positive weight: ");
@@ -51,7 +52,7 @@ class BMICalculator {
 			}
 			weightHeight[i][0] = weight;
 			
-			System.out.print("Enter height for Person " + (i + 1) " : ");
+			System.out.print("Enter height for Person " + (i + 1) + " : ");
 			double height = input.nextDouble();
 			if (height < 1) {
 				System.out.print("Enter positive height: ");
@@ -60,7 +61,7 @@ class BMICalculator {
 			weightHeight[i][1] = height;
 		}
 		
-		String[][] finalResult = takeWeightHeight(double[][] weightHeight);
+		String[][] finalResult = takeWeightHeight(weightHeight);
 		
 		System.out.println("Weight\tHeight\tBMI\tStatus");
 		
