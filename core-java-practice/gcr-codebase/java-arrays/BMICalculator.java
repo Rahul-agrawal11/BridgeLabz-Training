@@ -36,7 +36,11 @@ class BMICalculator {
 			finalResult[i][2] = bmiWithStatus[i][0];
 			finalResult[i][3] = bmiWithStatus[i][1];
 		}
+<<<<<<< HEAD
 		return bmiWithStatus;
+=======
+		return finalResult;
+>>>>>>> 52829c6f20db98af81081f531764cd6a5c833423
 	}
 
 	public static void main(String[] args) {
