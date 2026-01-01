@@ -52,9 +52,8 @@ BridgeLabz-Training (main repository)
 ├── Branch: oops-practice
 │   ├── gcr-codebase
 |   |   ├── class-and-object
-│   │   ├── encapsulation
-│   │   ├── inheritance
-│   │   └── polymorphism
+│   │   ├── constructor-instance&class-modifiers
+│   │   └── this-final-static-instanceof
 │   ├── leet-code-codebase
 │   └── scenario-based
 │
@@ -113,4 +112,5 @@ This repository serves as a complete audit trail of my learning journey, showcas
 ## Week 2: Getting Started with Java OOPs
 
 * **30-Dec-2025 (Tuesday):** Started learning Java OOPs concept and solved elementary problems.
-* **31-Dec-2025 (Wednesday):** Continued with Java Constructors, Instance vs. Class Variables, Access Modifiers Concepts.
+* **31-Dec-2025 (Wednesday):** Complete and submitted basic problems based on Java Constructors, Instance vs. Class Variables, Access Modifiers Concepts.
+* **01-Jan-2026 (Thrusday):** Complete and submitted basic problems based on this, static, final key words and instanceof operator.
