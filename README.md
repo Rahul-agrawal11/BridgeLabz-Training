@@ -53,7 +53,10 @@ BridgeLabz-Training (main repository)
 │   ├── gcr-codebase
 |   |   ├── class-and-object
 │   │   ├── constructor-instance&class-modifiers
-│   │   └── this-final-static-instanceof
+│   │   ├── this-final-static-instanceof
+|   |   ├── encapsulation-polymorphism
+|   |   ├── inheritance
+|   |   └── uml-diagrams
 │   ├── leet-code-codebase
 │   └── scenario-based
 │
@@ -95,22 +98,112 @@ This repository serves as a complete audit trail of my learning journey, showcas
 
 ## Learning Progress Summary
 
-## Week 1: Getting Started with Java Basics
+## Getting Started with Java Basics
 
-* **20-Dec-2025 (Saturday):** Studied Java fundamentals and variables. Solved elementary problems.
-* **21-Dec-2025 (Sunday):** Continued with control flow. Practiced loops and conditionals.
-* **22-Dec-2025 (Monday):** Solved and submitted basic practice problems.
-* **23-Dec-2025 (Tuesday):** Solved practice problems set .
-* **24-Dec-2025 (Wednesday):** Completed and submitted array and method problems.
-* **25-Dec-2025 (Thursday):** Methods & String Manipulation problems solved.
-* **26-Dec-2025 (Friday):** Number Validators and calculators completed.
-* **27-Dec-2025 (Saturday):** Scenario-based Problems implemented.
-* **28-Dec-2025 (Sunday):** Works with Java built in Date and time.
-* **29-Dec-2025 (Monday):** Completed Employee Wages Scenario based problem and also leetcode question.
-* **30-Dec-2025 (Tuesday):** Snake and Ladder scenario based.
+* **20-Dec-2025 (Saturday):**
+  ---
+  Studied Java fundamentals and variables.
+  
+* **22-Dec-2025 (Monday):**
+  ---
+  Solved basic programming problems and continued learning to control-flow and solving control-flow practice set.<br>
+  Solved one leetcode problem. 
+    
+* **23-Dec-2025 (Tuesday):**
+  ---
+  Continued with solving control-flow practice problem sets and scenario-based problems and learning java-arrays.<br>
+  Solved one leetcode problem.
+  
+* **24-Dec-2025 (Wednesday):**
+  ---
+  Submitted programming-elements practice set and control-flow practice set and continued with scenario-based problems.<br>
+  [programming-elements](https://github.com/Rahul-agrawal11/BridgeLabz-Training/tree/core-java-practice/core-java-practice/gcr-codebase/programming-elements)<br>
+  [control-flow](https://github.com/Rahul-agrawal11/BridgeLabz-Training/tree/core-java-practice/core-java-practice/gcr-codebase/contol-flows)<br>
+  Solved one leetcode problem.
+  
+* **26-Dec-2025 (Friday):**
+  ---
+  Continued solving of scenario-based problems and solved java-arrays practice problems and learning java-strings concept.<br>
+  Solved one leetcode problem.
+  
+* **27-Dec-2025 (Saturday):**
+  ---
+  Solved java-strings practice set and submitted java-arrays practice set and java-strings practice set and continued to learning java-methods.<br>
+  [java-arrays](https://github.com/Rahul-agrawal11/BridgeLabz-Training/tree/core-java-practice/core-java-practice/gcr-codebase/java-arrays)<br>
+  [java-strings](https://github.com/Rahul-agrawal11/BridgeLabz-Training/tree/core-java-practice/core-java-practice/gcr-codebase/java-strings)<br>
+  
+* **28-Dec-2025 (Sunday):**
+  ---
+  Submitted java-methods practice set and scenario-based problem.<br>
+  [java-methods](https://github.com/Rahul-agrawal11/BridgeLabz-Training/tree/core-java-practice/core-java-practice/gcr-codebase/java-methods)<br>
+  [scenario-based](https://github.com/Rahul-agrawal11/BridgeLabz-Training/tree/core-java-practice/core-java-practice/scenario-based)<br>
+* **29-Dec-2025 (Monday):**
+  ---
+  Completed Employee Wages Scenario based problem.<br>
+  Solved one leetcode problem.<br>
+  Submitted leetcode.<br>
+  [leetcode](https://github.com/Rahul-agrawal11/BridgeLabz-Training/tree/core-java-practice/core-java-practice/leet-code-codebase)
+  
+* **30-Dec-2025 (Tuesday):**
+  ---
+  Solved and submitted Snake and Ladder scenario based and Line Comparison scenario-based solved.<br>
+  Solved One leetcode problem.<br>
+  [scenario-based](https://github.com/Rahul-agrawal11/BridgeLabz-Training/tree/core-java-practice/core-java-practice/scenario-based)
 
-## Week 2: Getting Started with Java OOPs
+## Getting Started with Java OOPs
 
-* **30-Dec-2025 (Tuesday):** Started learning Java OOPs concept and solved elementary problems.
-* **31-Dec-2025 (Wednesday):** Complete and submitted basic problems based on Java Constructors, Instance vs. Class Variables, Access Modifiers Concepts.
-* **01-Jan-2026 (Thrusday):** Complete and submitted basic problems based on this, static, final key words and instanceof operator.
+* **30-Dec-2025 (Tuesday):**
+  ---
+  Started learning Java OOPs concept and solved and submitted elementary problems.<br>
+  [class-and-object](https://github.com/Rahul-agrawal11/BridgeLabz-Training/tree/oops-practice/oops-practice/gcr-codebase/class-and-object)
+* **31-Dec-2025 (Wednesday):**
+  ---
+  Complete and submitted basic problems based on Java Constructors, Instance vs. Class Variables, Access Modifiers Concepts.<br>
+  [java constructors](https://github.com/Rahul-agrawal11/BridgeLabz-Training/tree/oops-practice/oops-practice/gcr-codebase/constructor-instance%26class-modifiers)
+  
+* **01-Jan-2026 (Thrusday):**
+  ---
+  Complete and submitted basic problems based on this, static, final key words and instanceof operator and solved scenario-based problems.<br>
+  [keywords](https://github.com/Rahul-agrawal11/BridgeLabz-Training/tree/oops-practice/oops-practice/gcr-codebase/this-final-static-instanceof)
+
+* **02-Jan-2026 (Friday):**
+  ---
+  Continued to learning Object modeling, class diagram<br>
+  Implemented object oriented design principles to create Class Diagram, Object Diagrams, Sequence Diagrams<br>
+  Solved scenario-based problems<br>
+  Continued to learn inheritance concept<br>
+  [Diagrams](https://github.com/Rahul-agrawal11/BridgeLabz-Training/tree/oops-practice/oops-practice/gcr-codebase/uml%20diagrams)
+
+* **03-Jan-2026 (Saturday):**
+  ---
+  Solved and Submitted inheritance problems set.<br>
+  Solved scenario-based problems.<br>
+  Continued to learn concept of encapsulation<br>
+  [inheritance](https://github.com/Rahul-agrawal11/BridgeLabz-Training/tree/oops-practice/oops-practice/gcr-codebase/inheritance)
+
+* **05-Jan-2026 (Monday):**
+  ---
+  Solving encapsulation practice set.<br>
+  Solved scenario-based:<br>
+  [Invoice Generator for Freelancers](https://github.com/Rahul-agrawal11/BridgeLabz-Training/blob/oops-practice/oops-practice/scenario-based/InvoiceGeneratorforFreelancers.java)<br>
+  [Cafeteria Menu App](https://github.com/Rahul-agrawal11/BridgeLabz-Training/blob/oops-practice/oops-practice/scenario-based/CafeteriaMenuApp.java)<br>
+  [Student Score Analyzer](https://github.com/Rahul-agrawal11/BridgeLabz-Training/blob/oops-practice/oops-practice/scenario-based/StudentScoreAnalyzer.java)
+
+* **06-Jan-2026 (Tuesday):**
+  ---
+  Continue to solving and Submitted encapsulation practice set.<br>
+  [Encapsulation](https://github.com/Rahul-agrawal11/BridgeLabz-Training/tree/oops-practice/oops-practice/gcr-codebase/encapsulation-polymorphism)<br>
+  Solved scenario-based:<br>
+  [Phone Contact Organizer](https://github.com/Rahul-agrawal11/BridgeLabz-Training/blob/oops-practice/oops-practice/scenario-based/PhoneContactOrganizer.java)<br>
+  [Online Quiz Platform](https://github.com/Rahul-agrawal11/BridgeLabz-Training/blob/oops-practice/oops-practice/scenario-based/OnlineQuizPlatform.java)<br>
+  [Student Report Generator](https://github.com/Rahul-agrawal11/BridgeLabz-Training/blob/oops-practice/oops-practice/scenario-based/StudentReportGenerator.java)<br>
+  [Library Management System ](https://github.com/Rahul-agrawal11/BridgeLabz-Training/blob/oops-practice/oops-practice/scenario-based/LibraryManagementSystem.java)<br>
+
+* **07-Jan-2026 (Wednesday):**
+  ---
+  Continued to understand story-based problems<br>
+  Solved story based problems:<br>
+  [Cab Booking / Ride Management System](https://github.com/Rahul-agrawal11/BridgeLabz-Training/blob/oops-practice/oops-practice/scenario-based/CabBookingApp.java)<br>
+  [Online Banking System](https://github.com/Rahul-agrawal11/BridgeLabz-Training/blob/oops-practice/oops-practice/scenario-based/OnlineBankingApp.java)<br>
+  
+  
