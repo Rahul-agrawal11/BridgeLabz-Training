@@ -160,6 +160,8 @@ This repository serves as a complete audit trail of my learning journey, showcas
   Solved One leetcode problem.<br>
   [scenario-based](https://github.com/Rahul-agrawal11/BridgeLabz-Training/tree/core-java-practice/core-java-practice/scenario-based)
 
+---
+
 ## Getting Started with Java OOPs
 
 * **30-Dec-2025 (Tuesday):**
@@ -238,6 +240,8 @@ This repository serves as a complete audit trail of my learning journey, showcas
   [Online Voting System](https://github.com/Rahul-agrawal11/BridgeLabz-Training/tree/oops-practice/oops-practice/scenario-based/OnlineVotingSystem)<br>
   [Digital Wallet System](https://github.com/Rahul-agrawal11/BridgeLabz-Training/tree/oops-practice/oops-practice/scenario-based/DigitalWalletSystem)
 
+---
+
 ## Getting started with DSA
 
 * **08-Jan-2026 (Thrusday):**
@@ -266,4 +270,6 @@ This repository serves as a complete audit trail of my learning journey, showcas
   Solved and submitted hash map and hash function practice set.<br>
   [stack-queue](https://github.com/Rahul-agrawal11/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-codebase/stack-queue)<br>
   [hashmap-hashFunction](https://github.com/Rahul-agrawal11/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-codebase/hashmaps-hashfunctions)
-  
+
+---
+
