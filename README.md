@@ -60,6 +60,14 @@ BridgeLabz-Training (main repository)
 │   ├── leet-code-codebase
 │   └── scenario-based
 │
+├── Branch: dsa-practice
+│   ├── gcr-codebase
+|   |   ├── linked-list
+│   │   ├── stack-queue
+│   │   ├── hashmap-hashfunction
+|   |   └── sorting-algorithms  
+│   ├── leet-code-codebase
+│   └── scenario-based
 └── Branch: reviews 
 ```
 
@@ -81,7 +89,9 @@ BridgeLabz-Training (main repository)
 
 **Completed:** Core Java fundamentals, control flow, methods, arrays, strings and utility programs
 
-**Next Steps:** Move to OOP concepts (encapsulation, inheritance, polymorphism) in separate branch
+**Completed:** OOP concepts (encapsulation, inheritance, polymorphism, abstraction) in oops-practice branch
+
+**Next Step:** Move to DSA concepts (linkedlist, stack and queue, hashmap and hash functions) in dsa-practice branch
 
 ---
 
@@ -205,5 +215,55 @@ This repository serves as a complete audit trail of my learning journey, showcas
   Solved story based problems:<br>
   [Cab Booking / Ride Management System](https://github.com/Rahul-agrawal11/BridgeLabz-Training/blob/oops-practice/oops-practice/scenario-based/CabBookingApp.java)<br>
   [Online Banking System](https://github.com/Rahul-agrawal11/BridgeLabz-Training/blob/oops-practice/oops-practice/scenario-based/OnlineBankingApp.java)<br>
+
+* **09-Jan-2026 (Friday):**
+  ---
+  Solved scenario problems based on CRUD:<br>
+  [Hospital Patient Management System](https://github.com/Rahul-agrawal11/BridgeLabz-Training/blob/oops-practice/oops-practice/scenario-based/HospitalPatientManagement.java)<br>
+  [Vehicle Rental Application](https://github.com/Rahul-agrawal11/BridgeLabz-Training/blob/oops-practice/oops-practice/scenario-based/VehicleRentalSystem.java)<br>
+  [Flight Booking System](https://github.com/Rahul-agrawal11/BridgeLabz-Training/tree/oops-practice/oops-practice/scenario-based/FlightBookingSystem)
+
+* **12-Jan-2026 (Monday):**
+  ---
+  Solved scenario-based OOPs:<br>
+  [Online Banking System](https://github.com/Rahul-agrawal11/BridgeLabz-Training/tree/oops-practice/oops-practice/scenario-based/OnlineBankingSystem)<br>
+  [E-Commerce Order Management System](https://github.com/Rahul-agrawal11/BridgeLabz-Training/tree/oops-practice/oops-practice/scenario-based/ECommerceOrderManagement)<br>
   
+* **13-Jan-2026 (Tuesday):**
+  ---
+  Solved and submitted scenario-based OOPs:<br>
+  [Online Banking System](https://github.com/Rahul-agrawal11/BridgeLabz-Training/tree/oops-practice/oops-practice/scenario-based/OnlineBankingSystem)<br>
+  [E-Commerce Order Management System](https://github.com/Rahul-agrawal11/BridgeLabz-Training/tree/oops-practice/oops-practice/scenario-based/ECommerceOrderManagement)<br>
+  [Hotel Reservation System](https://github.com/Rahul-agrawal11/BridgeLabz-Training/tree/oops-practice/oops-practice/scenario-based/HotelReservationSystem)<br>
+  [Online Voting System](https://github.com/Rahul-agrawal11/BridgeLabz-Training/tree/oops-practice/oops-practice/scenario-based/OnlineVotingSystem)<br>
+  [Digital Wallet System](https://github.com/Rahul-agrawal11/BridgeLabz-Training/tree/oops-practice/oops-practice/scenario-based/DigitalWalletSystem)
+
+## Getting started with DSA
+
+* **08-Jan-2026 (Thrusday):**
+  ---
+  Started to learn and linked-list concepts.<br>
+  Started to solve linked-list practice set.
+
+* **09-Jan-2026 (Friday):**
+  ---
+  Solved and submitted linked-list problems.<br>
+  Continued to learning Stack, Queue, HashMap and Hashing Function<br>
+  [linked-list](https://github.com/Rahul-agrawal11/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-codebase/linked-list)
+
+* **12-Jan-2026 (Monday):**
+  ---
+  Start solving stack and queue practice set
+
+* **13-Jan-2026 (Tuesday):**
+  ---
+  Create a Git-Based Calculator Repository to demonstrate effective use of Git branching, merging, and conflict resolution with different contributors.<br>
+  [Practice Link](https://github.com/MahiSharma05/Demo/blob/core-java/Calculator.java)
+
+* **14-Jan-2026 (Wednesday):**
+  ---
+  Solved and submitted stack and queue practice set.<br>
+  Solved and submitted hash map and hash function practice set.<br>
+  [stack-queue](https://github.com/Rahul-agrawal11/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-codebase/stack-queue)<br>
+  [hashmap-hashFunction](https://github.com/Rahul-agrawal11/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-codebase/hashmaps-hashfunctions)
   
