@@ -65,7 +65,9 @@ BridgeLabz-Training (main repository)
 |   |   ├── linked-list
 │   │   ├── stack-queue
 │   │   ├── hashmap-hashfunction
-|   |   └── sorting-algorithms  
+|   |   ├── sorting-algorithms
+│   │   ├── java-searching-string-io
+|   |   └── runtime-analysis  
 │   ├── leet-code-codebase
 │   └── scenario-based
 └── Branch: reviews 
@@ -91,7 +93,9 @@ BridgeLabz-Training (main repository)
 
 **Completed:** OOP concepts (encapsulation, inheritance, polymorphism, abstraction) in oops-practice branch
 
-**Next Step:** Move to DSA concepts (linkedlist, stack and queue, hashmap and hash functions) in dsa-practice branch
+**Completed:** DSA concepts (linkedlist, stack and queue, hashmap and hash functions) in dsa-practice branch
+
+**Next Step:** Move to learn java collections and streams.
 
 ---
 
@@ -257,11 +261,13 @@ This repository serves as a complete audit trail of my learning journey, showcas
 
 * **12-Jan-2026 (Monday):**
   ---
-  Start solving stack and queue practice set
+  Start solving stack and queue practice set<br>
+  Solved two leetcode problems.
 
 * **13-Jan-2026 (Tuesday):**
   ---
   Create a Git-Based Calculator Repository to demonstrate effective use of Git branching, merging, and conflict resolution with different contributors.<br>
+  Solved two leetcode problems.<br>
   [Practice Link](https://github.com/MahiSharma05/Demo/blob/core-java/Calculator.java)
 
 * **14-Jan-2026 (Wednesday):**
@@ -271,5 +277,60 @@ This repository serves as a complete audit trail of my learning journey, showcas
   [stack-queue](https://github.com/Rahul-agrawal11/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-codebase/stack-queue)<br>
   [hashmap-hashFunction](https://github.com/Rahul-agrawal11/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-codebase/hashmaps-hashfunctions)
 
----
+  
+* **15-Jan-2026 (Thrusday):**
+  ---
+  Continued learning of sorting algorithms.<br>
+  Solved some sorting algorithm problems.<br>
+  Solved two leetcode problems.
 
+* **16-Jan-2026 (Friday):**
+  ---
+  Continued to solving sorting algorithm problems and submitted.<br>
+  Start learning and solving searching algo, stringbuilder & stringbuffer, file handling.<br> 
+  Analyze the Address Book Problem Use Cases and solved first three use cases.<br>
+  [sorting](https://github.com/Rahul-agrawal11/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-codebase/sorting)
+    
+* **17-Jan-2026 (Saturday):**
+   ---
+  Continued to start solving searching algo, stringbuilder & stringbuffer, file handling practice set.<br>
+  Submitted the practice set.<br>
+  Solved next four use cases of Address Book Problems.<br>
+  Solved two scenario-based problems<br>
+  Continued to learning runtime analysis and big o notation.<br>
+  [java-searching-stringbuilder&buffer-filehandling](https://github.com/Rahul-agrawal11/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-codebase/javaSearchingStringIoPractice)
+
+* **19-Jan-2026(Monday):**
+  ---
+  Solved further use cases of Address Book Problem and submitted.<br>
+  Solved and submitted the practice set of runtime analysis and big o notation.<br>
+  Solved three scenario-based problems<br>
+  [runtime-analysis](https://github.com/Rahul-agrawal11/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-codebase/RuntimeAnalysis)<br>
+  [address-book-problem](https://github.com/Rahul-agrawal11/BridgeLabz-Training/tree/oops-practice/oops-practice/gcr-codebase/AddressBookSystem)
+
+* **20-Jan-2026(Tuesday):**
+  ---
+  Solved remaining scenario-based problems and submitted.<br>
+  Solved two leetcode problems and submitted.<br>
+  [leetcode](https://github.com/Rahul-agrawal11/BridgeLabz-Training/tree/dsa-practice/dsa-practice/leetcode)<br>
+  Scenario-based:<br>
+  [BookShelf](https://github.com/Rahul-agrawal11/BridgeLabz-Training/tree/dsa-practice/dsa-practice/scenario-based/BookShelf)<br>
+  [TrafficManager](https://github.com/Rahul-agrawal11/BridgeLabz-Training/tree/dsa-practice/dsa-practice/scenario-based/TrafficManager)<br>
+  [BrowserBuddy](https://github.com/Rahul-agrawal11/BridgeLabz-Training/tree/dsa-practice/dsa-practice/scenario-based/BrowserBuddy)<br>
+  [ParcelTracker](https://github.com/Rahul-agrawal11/BridgeLabz-Training/tree/dsa-practice/dsa-practice/scenario-based/ParcelTracker)<br>
+  [ExamProctor](https://github.com/Rahul-agrawal11/BridgeLabz-Training/tree/dsa-practice/dsa-practice/scenario-based/ExamProctor)<br>
+  [BankingAccount](https://github.com/Rahul-agrawal11/BridgeLabz-Training/tree/dsa-practice/dsa-practice/scenario-based/BankingAccountHierarchy)<br>
+  [EmployeeRole](https://github.com/Rahul-agrawal11/BridgeLabz-Training/tree/dsa-practice/dsa-practice/scenario-based/EmployeeRolePolymorphism)<br>
+  [MovieScheduler](https://github.com/Rahul-agrawal11/BridgeLabz-Training/tree/dsa-practice/dsa-practice/scenario-based/MovieScheduleManager)
+---
+## Getting started with Collections
+
+* **20-Jan-2026(Tuesday):**
+  ---
+  Start learning java-generics.
+
+* **21-Jan-2026(Wednesday):**
+  ---
+  Solved and submitted java-generics practice set.<br>
+  [java-generics](https://github.com/Rahul-agrawal11/BridgeLabz-Training/tree/collection-practice/collection-practice/gcr-codebase/java_generics)
+  
