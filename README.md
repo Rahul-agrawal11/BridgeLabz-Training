@@ -70,6 +70,16 @@ BridgeLabz-Training (main repository)
 |   |   └── runtime-analysis  
 │   ├── leet-code-codebase
 │   └── scenario-based
+|
+├── Branch: collection-practice
+│   ├── gcr-codebase
+|   |   ├── java-generics
+│   │   ├── collections
+│   │   ├── streams
+|   |   ├── exception-handling
+│   │   └── regex
+│   ├── leet-code-codebase
+│   └── scenario-based
 └── Branch: reviews 
 ```
 
@@ -333,4 +343,42 @@ This repository serves as a complete audit trail of my learning journey, showcas
   ---
   Solved and submitted java-generics practice set.<br>
   [java-generics](https://github.com/Rahul-agrawal11/BridgeLabz-Training/tree/collection-practice/collection-practice/gcr-codebase/java_generics)
-  
+
+* **22-Jan-2026(Thrusday):**
+  ---
+  Continued to learn collections e.g, list, set, queue, map.<br>
+  Solved practice problems of list and set.<br>
+  Solved two scenario-based problem.<br>
+
+* **23-Jan-2026(Friday):**
+  ---
+  Solved practice problems of queue and map.<br>
+  Submitted collections practice set(include list, set, queue, map).<br>
+  [collections](https://github.com/Rahul-agrawal11/BridgeLabz-Training/tree/collection-practice/collection-practice/gcr-codebase/collections)
+
+* **26-Jan-2026(Monday):**
+  ---
+  Continued to learn about io streams.<br>
+  Solved and submitted practice set of io streams.<br>
+  [streams](https://github.com/Rahul-agrawal11/BridgeLabz-Training/tree/collection-practice/collection-practice/gcr-codebase/streams)
+
+* **27-Jan-2026(Tuesday):**
+  ---
+  Continued to learn about Exceptions.<br>
+  Solved and submitted Exception practice set.<br>
+  Solved Lexical Twist scenario problem.<br>
+  [exceptions](https://github.com/Rahul-agrawal11/BridgeLabz-Training/tree/collection-practice/collection-practice/gcr-codebase/ExceptionHandling)
+
+* **28-Jan-2026(Wednesday):**
+  ---
+  Solved Flip Key Logical Problem.<br>
+  Solved scenario problems - Restaurant Table Reservation System & File Backup Scheduler<br>
+  Submittes scenario-based problems.<br>
+  Continued to learn about regex.<br>
+  scenario-based links:<br>
+  [EduResults-Rank Sheet Generator (Merge Sort)](https://github.com/Rahul-agrawal11/BridgeLabz-Training/blob/collection-practice/collection-practice/scenario/EduResults.java)<br>
+  [SmartCheckout – Supermarket Billing Queue (Queue + HashMap)](https://github.com/Rahul-agrawal11/BridgeLabz-Training/blob/collection-practice/collection-practice/scenario/SmartCheckout.java)<br>
+  [Lexical Twist](https://github.com/Rahul-agrawal11/BridgeLabz-Training/blob/collection-practice/collection-practice/scenario/LexicalTwist.java)<br>
+  [Flip Key Logical Problem](https://github.com/Rahul-agrawal11/BridgeLabz-Training/blob/collection-practice/collection-practice/scenario/Program.java)<br>
+  [Restaurant Table Reservation System](https://github.com/Rahul-agrawal11/BridgeLabz-Training/blob/collection-practice/collection-practice/scenario/RestaurantTableReservationSystem.java)<br>
+  [File Backup Scheduler](https://github.com/Rahul-agrawal11/BridgeLabz-Training/blob/collection-practice/collection-practice/scenario/FileBackupScheduler.java)
