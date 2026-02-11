@@ -107,6 +107,12 @@ BridgeLabz-Training (main repository)
 │   ├── leet-code-codebase
 │   └── scenario-based
 |
+├── Branch: multi-threading-practice
+│   ├── gcr-codebase
+│   │   └── multi-threading
+│   ├── leet-code-codebase
+│   └── scenario-based
+|
 ├── Branch: jdbc-base-practice
 │   ├── gcr-codebase
 │   │   └── HealthClinicApp 
@@ -551,3 +557,4 @@ This repository serves as a complete audit trail of my learning journey, showcas
 * **10-Feb-2026(Tuesday):**
   ---
   Solved three mock questions for M1 exam prepartion.
+
