@@ -77,10 +77,44 @@ BridgeLabz-Training (main repository)
 │   │   ├── collections
 │   │   ├── streams
 |   |   ├── exception-handling
-│   │   └── regex
+│   │   ├── regex
+|   |   ├── reflection
+|   |   ├── annotations
+│   │   └── junit
 │   ├── leet-code-codebase
 │   └── scenario-based
+|
+├── Branch: io-programming-practice
+│   ├── gcr-codebase
+|   |   ├── csv-handling
+│   │   └── json-practice
+│   ├── leet-code-codebase
+│   └── scenario-based
+|
+├── Branch: java-eight-features-practice
+│   ├── gcr-codebase
+|   |   ├── lambda-expressions
+│   │   ├── functional-interface
+|   |   ├── stream-api
+│   │   └── collectors
+│   ├── leet-code-codebase
+│   └── scenario-based
+|
+├── Branch: design-pattern-practice
+│   ├── gcr-codebase
+│   │   ├── Design and Implement two problem statements
+|   |   └── SonarQube Report (AddressBookSystem)
+│   ├── leet-code-codebase
+│   └── scenario-based
+|
+├── Branch: jdbc-base-practice
+│   ├── gcr-codebase
+│   │   └── HealthClinicApp 
+│   ├── leet-code-codebase
+│   └── scenario-based
+|
 └── Branch: reviews 
+
 ```
 
 ---
@@ -105,7 +139,17 @@ BridgeLabz-Training (main repository)
 
 **Completed:** DSA concepts (linkedlist, stack and queue, hashmap and hash functions) in dsa-practice branch
 
-**Next Step:** Move to learn java collections and streams.
+**Completed:** Collections and streams completed in collection-practice branch.
+
+**Completed:** IO programming completed in io-programming-practice branch.
+
+**Completed:** Java 8 features completed.
+
+**Completed:** Designing principles completed.
+
+**Completed:** MutiThreading completed.
+
+**Completed:** JDBC-DBMS completed.
 
 ---
 
@@ -382,3 +426,128 @@ This repository serves as a complete audit trail of my learning journey, showcas
   [Flip Key Logical Problem](https://github.com/Rahul-agrawal11/BridgeLabz-Training/blob/collection-practice/collection-practice/scenario/Program.java)<br>
   [Restaurant Table Reservation System](https://github.com/Rahul-agrawal11/BridgeLabz-Training/blob/collection-practice/collection-practice/scenario/RestaurantTableReservationSystem.java)<br>
   [File Backup Scheduler](https://github.com/Rahul-agrawal11/BridgeLabz-Training/blob/collection-practice/collection-practice/scenario/FileBackupScheduler.java)
+
+* **29-Jan-2026(Thrusday):**
+  ---
+  Solved problems on regex.<br>
+  Continued to learn about junit.
+
+* **30-Jan-2026(Friday):**
+  ---
+  Submitted regex pracitce set solution.<br>
+  Start and submit junit practice set solution.<br>
+  [regex](https://github.com/Rahul-agrawal11/BridgeLabz-Training/tree/collection-practice/collection-practice/gcr-codebase/regex)<br>
+  [junit](https://github.com/Rahul-agrawal11/BridgeLabz-Training/tree/collection-practice/collection-practice/gcr-codebase/junit-practice)
+
+* **31-Jan-2026(Staurday):**
+  ---
+  Continued to learning and annotations and reflections.<br>
+  Solved FutureLogistics problem and submitted.<br>
+  [FutureLogistics](https://github.com/Rahul-agrawal11/BridgeLabz-Training/tree/collection-practice/collection-practice/scenario/FutureLogistics)
+
+* **02-Feb-2026(Monday):**
+  ---
+  Solved and submitted annotations and reflections.<br>
+  [annotation](https://github.com/Rahul-agrawal11/BridgeLabz-Training/tree/collection-practice/collection-practice/gcr-codebase/annotations)<br>
+  [reflection](https://github.com/Rahul-agrawal11/BridgeLabz-Training/tree/collection-practice/collection-practice/gcr-codebase/reflection)
+
+* **03-Feb-2026(Tuesday):**
+  Solved and submitted StreamBuzz problem.<br>
+  [StreamBuzz](https://github.com/Rahul-agrawal11/BridgeLabz-Training/tree/collection-practice/collection-practice/scenario/StreamBuzz)<br>
+
+* **09-Feb-2026(Monday):**
+  Solved and submitted Test Case problem based on junit<br>
+  [TestCase](https://github.com/Rahul-agrawal11/BridgeLabz-Training/tree/collection-practice/collection-practice/scenario/junit-test-case)
+---
+
+## Getting started with IO-Programming
+
+* **31-Jan-2026(Staurday):**
+  ---
+  Continued to learning csv-handling<br>
+  Continued to learn about json-data
+* **02-Feb-2026(Monday):**
+  ---
+  Solved and submitted csv-handling<br>
+  [csv-handling](https://github.com/Rahul-agrawal11/BridgeLabz-Training/tree/io-programming-practice/io-programming-practice/gcr-codebase/csvHandling)
+  
+* **03-Feb-2026(Tuesday):**
+  ---
+  Solved and submitted json-data<br>
+  Solved and submitted Factory Robot Harzard Analyzer scenario.
+  [json-data](https://github.com/Rahul-agrawal11/BridgeLabz-Training/tree/io-programming-practice/io-programming-practice/gcr-codebase/json-practice)<br>
+  [Factory Robot Harzard Analyzer](https://github.com/Rahul-agrawal11/BridgeLabz-Training/tree/io-programming-practice/io-programming-practice/scenario/FactoryRobotHazardAnalyzer)
+
+* **05-Feb-2026(Thrusday):**
+  ---
+  Solved and submitted AeroVigil scenario<br>
+  [AeroVigil](https://github.com/Rahul-agrawal11/BridgeLabz-Training/tree/io-programming-practice/io-programming-practice/scenario/AeroVigil)
+
+## Getting started with Java Eight Features
+
+* **03-Feb-2026(Tuesday):**
+  ---
+  Continued to learning about lambda expressions and functional interfaces.<br>
+  Start solving lambda expressions and functional interfaces.
+  
+* **04-Feb-2026(Wednesday):**
+  ---
+  Solved and submitted lambda expressions.<br>
+  Solved and submitted functional interrfaces<br>
+  [LambdaExpression](https://github.com/Rahul-agrawal11/BridgeLabz-Training/tree/java-eight-features-practice/java-eight-features-practice/gcr-codebase/LambdaExpressions)<br>
+  [FunctionalInterface](https://github.com/Rahul-agrawal11/BridgeLabz-Training/tree/java-eight-features-practice/java-eight-features-practice/gcr-codebase/FunctionalInterface)
+  
+* **05-Feb-2026(Thrusday):**
+  ---
+  Continued to learning stream api<br>
+  Solved and submitted stream api problem statements<br>
+  [StreamAPI](https://github.com/Rahul-agrawal11/BridgeLabz-Training/tree/java-eight-features-practice/java-eight-features-practice/gcr-codebase/streamAPI)
+  
+* **06-Feb-2026(Friday):**
+  ---
+  Continued to learning collectors<br>
+  [Collectors](https://github.com/Rahul-agrawal11/BridgeLabz-Training/tree/java-eight-features-practice/java-eight-features-practice/gcr-codebase/collectors)
+  
+* **07-Feb-2026(Saturday):**
+  ---
+  Solved and submitted OceanFleet scenario<br>
+  [OceanFleet](https://github.com/Rahul-agrawal11/BridgeLabz-Training/tree/java-eight-features-practice/java-eight-features-practice/scenario/OceanFleet)
+
+## Getting started with Design Principles
+
+* **06-Feb-2026(Friday):**
+  ---
+  Continued to learn about design principles
+  
+* **07-Feb-2026(Saturday):**
+  ---
+  Solved and submitted two management systems based on design patterns<br>
+  [LibraryManagementSystem](https://github.com/Rahul-agrawal11/BridgeLabz-Training/tree/design-pattern-practice/design-pattern-practice/gcr-codebase/LibraryManagementSystem)<br>
+  [SmartUniversityLibraryManagementSystem](https://github.com/Rahul-agrawal11/BridgeLabz-Training/tree/design-pattern-practice/design-pattern-practice/gcr-codebase/SmartUniversityLibraryManagementSystem)
+
+* **08-Feb-2026(Sunday):**
+  ---
+  Generate SonarQube report of AddressBookSystem<br>
+  [SonarQube](https://github.com/Rahul-agrawal11/BridgeLabz-Training/blob/design-pattern-practice/design-pattern-practice/gcr-codebase/SonarQube%20Integration%20Project%20Submission.pdf)
+
+## Getting started with MultiThreading
+
+* **08-Feb-2026(Sunday):**
+  ---
+  Continued to learn about multi-threading in java.<br>
+  Solved and submitted multithreading problem statements<br>
+  [MultiThreading](https://github.com/Rahul-agrawal11/BridgeLabz-Training/tree/multi-threading-practice/multi-threading-practice/gcr-codebase/multiThreading)
+
+## Getting started with JDBC
+* **07-Feb-2026(Saturday):**
+  ---
+  Continued to learning jdbc concepts
+  
+* **09-Feb-2026(Monday):**
+  ---
+  Solved and submitted health-clinic-app<br>
+  [HealthClinicApp](https://github.com/Rahul-agrawal11/BridgeLabz-Training/commits/jdbc-dbms-practice/jdbc-dbms-practice/gcr-codebase/health-clinic-app)
+  
+* **10-Feb-2026(Tuesday):**
+  ---
+  Solved three mock questions for M1 exam prepartion.
