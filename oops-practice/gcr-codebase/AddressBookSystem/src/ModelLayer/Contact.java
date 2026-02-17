@@ -14,8 +14,9 @@ public class Contact {
 	private String zipCode;
 	private String phoneNumber;
 	private String email;
-	
-	public Contact(String firstName, String lastName, String address, String city, String state, String zipCode, String phoneNumber, String email) {
+
+	public Contact(String firstName, String lastName, String address, String city, String state, String zipCode,
+			String phoneNumber, String email) {
 		this.firstName = firstName;
 		this.lastName = lastName;
 		this.address = address;
@@ -25,12 +26,12 @@ public class Contact {
 		this.phoneNumber = phoneNumber;
 		this.email = email;
 	}
-	
+
 	// Getters & Setters
 	public String getFirstName() {
 		return firstName;
 	}
-	
+
 	public void setFirstName(String firstName) {
 		this.firstName = firstName;
 	}
@@ -89,5 +90,43 @@ public class Contact {
 
 	public void setEmail(String email) {
 		this.email = email;
+	}
+
+	/* ************************************************
+	 * UC-7
+	 * Override equals method for duplicate check
+	 ************************************************ */
+	@Override
+	public boolean equals(Object obj) {
+
+		if (this == obj)
+			return true;
+
+		if (obj == null || getClass() != obj.getClass())
+			return false;
+
+		Contact other = (Contact) obj;
+
+		return this.firstName.equalsIgnoreCase(other.firstName)
+				&& this.lastName.equalsIgnoreCase(other.lastName);
+	}
+
+	/* ************************************************
+	 * UC-7
+	 * Override hashCode method (Required with equals)
+	 ************************************************ */
+	@Override
+	public int hashCode() {
+		return (firstName.toLowerCase() + lastName.toLowerCase()).hashCode();
+	}
+
+	/* ************************************************
+	 * UC-11
+	 * Override toString method to print contact details
+	 ************************************************ */
+	@Override
+	public String toString() {
+		return firstName + " " + lastName + " | " + address + " | " + city + " | " + state + " | " + zipCode + " | "
+				+ phoneNumber + " | " + email;
 	}
 }
