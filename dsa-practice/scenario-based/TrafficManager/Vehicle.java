@@ -1,0 +1,12 @@
+package scenario.TrafficManager;
+
+class Vehicle {
+    String plateNumber;
+    Vehicle next;
+
+    public Vehicle(String plateNumber) {
+        this.plateNumber = plateNumber;
+        this.next = null;
+    }
+}
+
