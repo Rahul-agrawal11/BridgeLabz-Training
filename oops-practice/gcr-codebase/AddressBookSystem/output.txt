@@ -1,0 +1,10 @@
+ADDRESS_BOOK=Friends
+FirstName: Rahul
+LastName: Agrawal
+Address: Baldeo
+City: Mathura
+State: UP
+Zip: 281301
+Phone: 7505859337
+Email: rahul@gmail.com
+-----------------------------------
